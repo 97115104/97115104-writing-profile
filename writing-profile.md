@@ -1,4 +1,4 @@
-# Writing Profile: Austin Harshberger
+# Writing Profile
 
 A style guide derived from a close reading of `paper/human-data-collective.tex` (v1, April 2026). Every rule below is anchored in observed evidence from that paper. The purpose of this profile is to make the author's voice reproducible by collaborators, including AI collaborators, so that subsequent papers in the same series read as one continuous body of work.
 
