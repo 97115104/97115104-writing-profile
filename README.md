@@ -1,4 +1,4 @@
-# Austin Harshberger Writing Profile
+# Writing Profile
 
 This repository is a prompt and constraint engineering layer for AI collaborators who are asked to write, revise, or review prose in Austin Harshberger's voice. It is meant to make the writing profile strict enough to use in practice, with `writing-profile.md` as the governing source and `prompt.md` as the reusable instruction block that agents can be given at the start of a drafting or editing session. The goal is voice replication across long-form papers, blog posts, essays, and related public writing, with the local HDC paper project at `/home/x97115104/Documents/projects/oss/hdc-paper` and the published writing at `blog.97115104.com` serving as core calibration material when those sources are available. The repository should therefore be understood as an operating layer for style compliance, and not as a folder of optional examples.
 
